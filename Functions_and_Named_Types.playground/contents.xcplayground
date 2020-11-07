@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' executeOnSourceChanges='true'>
+    <pages>
+        <page name='Intro to Functions (Bit Theory)'/>
+        <page name='Functions'/>
+        <page name='Returning from Functions'/>
+        <page name='Challenge in Functon'/>
+        <page name='Structures'/>
+        <page name='Challenge Structures'/>
+    </pages>
+</playground>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' executeOnSourceChanges='true'>
+    <pages>
+        <page name='While Loop'/>
+        <page name='Challenge While loop'/>
+        <page name='For Loop'/>
+        <page name='Challenge For Loop'/>
+        <page name='Iterating Collections'/>
+        <page name='Challenge Iterating Collections'/>
+        <page name='Nested Loops'/>
+        <page name='Challenge Nested Loop'/>
+    </pages>
+</playground>
